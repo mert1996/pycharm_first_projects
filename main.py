@@ -8,7 +8,7 @@ b = 10
 c = 20
 d = a + b
 
-print("ege 123")
+print("ege A")
 
 print("mert 123")
 
