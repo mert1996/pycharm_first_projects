@@ -12,6 +12,8 @@ print("ege A")
 
 print("mert 123")
 
+print("resimproje")
+
 e = c + a
 
 f = a + b + c
