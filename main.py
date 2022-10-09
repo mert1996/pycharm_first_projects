@@ -10,6 +10,8 @@ d = a + b
 
 print("ege 123")
 
+print("mert 123")
+
 e = c + a
 
 f = a + b + c
