@@ -8,6 +8,8 @@ b = 10
 c = 20
 d = a + b
 
+print("ege 123")
+
 e = c + a
 
 f = a + b + c
