@@ -14,6 +14,14 @@ print("mert 123")
 
 print("resimproje")
 
+dfgfdgdfg
+
+dfgfd
+gidfg
+df
+gdf
+gdfgfdgdfgdfg
+
 e = c + a
 
 f = a + b + c
